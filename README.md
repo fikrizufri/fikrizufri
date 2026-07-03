@@ -238,8 +238,8 @@ I am open to collaborating on:
 # 📫 Contact
 
 * GitHub: **https://github.com/fikrizufri**
-* Email: **[your-email@example.com](mailto:your-email@example.com)**
-* LinkedIn: **Coming Soon**
+* Email: **[fikrizufri@gmail.com](mailto:fikrizufri@gmail.com)**
+* LinkedIn: **[Firki Zufri](https://www.linkedin.com/in/fikri-zufri-07614587/)**
 
 ---
 
